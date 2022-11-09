@@ -1,5 +1,20 @@
 .App {
   text-align: center;
+  width:410px;
+  padding: 30px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1); 
+  display: block;
+}
+
+.mb-3 {
+  text-align: start;
+}
+
+div {
+  margin-top: 55px;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: auto;
 }
 
 .App-logo {
